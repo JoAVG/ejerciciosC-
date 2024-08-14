@@ -1,0 +1,14 @@
+C:\Users\JaVG\source\repos\fundamentosCshart\fundamentosCshart\bin\Debug\net8.0\fundamentosCshart.exe
+C:\Users\JaVG\source\repos\fundamentosCshart\fundamentosCshart\bin\Debug\net8.0\fundamentosCshart.deps.json
+C:\Users\JaVG\source\repos\fundamentosCshart\fundamentosCshart\bin\Debug\net8.0\fundamentosCshart.runtimeconfig.json
+C:\Users\JaVG\source\repos\fundamentosCshart\fundamentosCshart\bin\Debug\net8.0\fundamentosCshart.dll
+C:\Users\JaVG\source\repos\fundamentosCshart\fundamentosCshart\bin\Debug\net8.0\fundamentosCshart.pdb
+C:\Users\JaVG\source\repos\fundamentosCshart\fundamentosCshart\obj\Debug\net8.0\fundamentosCshart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JaVG\source\repos\fundamentosCshart\fundamentosCshart\obj\Debug\net8.0\fundamentosCshart.AssemblyInfoInputs.cache
+C:\Users\JaVG\source\repos\fundamentosCshart\fundamentosCshart\obj\Debug\net8.0\fundamentosCshart.AssemblyInfo.cs
+C:\Users\JaVG\source\repos\fundamentosCshart\fundamentosCshart\obj\Debug\net8.0\fundamentosCshart.csproj.CoreCompileInputs.cache
+C:\Users\JaVG\source\repos\fundamentosCshart\fundamentosCshart\obj\Debug\net8.0\fundamentosCshart.dll
+C:\Users\JaVG\source\repos\fundamentosCshart\fundamentosCshart\obj\Debug\net8.0\refint\fundamentosCshart.dll
+C:\Users\JaVG\source\repos\fundamentosCshart\fundamentosCshart\obj\Debug\net8.0\fundamentosCshart.pdb
+C:\Users\JaVG\source\repos\fundamentosCshart\fundamentosCshart\obj\Debug\net8.0\fundamentosCshart.genruntimeconfig.cache
+C:\Users\JaVG\source\repos\fundamentosCshart\fundamentosCshart\obj\Debug\net8.0\ref\fundamentosCshart.dll
