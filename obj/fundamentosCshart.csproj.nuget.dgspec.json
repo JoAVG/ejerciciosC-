@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JaVG\\source\\repos\\fundamentosCshart\\fundamentosCshart\\fundamentosCshart.csproj": {}
+    "C:\\Users\\JaVG\\Documents\\GitHub\\ejerciciosC-\\fundamentosCshart.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JaVG\\source\\repos\\fundamentosCshart\\fundamentosCshart\\fundamentosCshart.csproj": {
+    "C:\\Users\\JaVG\\Documents\\GitHub\\ejerciciosC-\\fundamentosCshart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JaVG\\source\\repos\\fundamentosCshart\\fundamentosCshart\\fundamentosCshart.csproj",
+        "projectUniqueName": "C:\\Users\\JaVG\\Documents\\GitHub\\ejerciciosC-\\fundamentosCshart.csproj",
         "projectName": "fundamentosCshart",
-        "projectPath": "C:\\Users\\JaVG\\source\\repos\\fundamentosCshart\\fundamentosCshart\\fundamentosCshart.csproj",
+        "projectPath": "C:\\Users\\JaVG\\Documents\\GitHub\\ejerciciosC-\\fundamentosCshart.csproj",
         "packagesPath": "C:\\Users\\JaVG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JaVG\\source\\repos\\fundamentosCshart\\fundamentosCshart\\obj\\",
+        "outputPath": "C:\\Users\\JaVG\\Documents\\GitHub\\ejerciciosC-\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JaVG\\AppData\\Roaming\\NuGet\\NuGet.Config",

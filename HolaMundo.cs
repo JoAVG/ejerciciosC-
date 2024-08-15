@@ -6,14 +6,17 @@ public class HolaMundo
 {
     public static void Main(string[] args)
     {
-        ejerciciosPractica Ejercicios = new ejerciciosPractica();
+        //ejerciciosPractica Ejercicios = new ejerciciosPractica();
 
         //Ejercicios.animalYholaM();
         //Ejercicios.saludaNombre();
+        //Ejercicios.superficeYVolumenDeCirculo();
+        //Ejercicios.operacionesAritmeticas();
 
-        Ejercicios.superficeYVolumenDeCirculo();
+        convertirCentigrados convercion = new convertirCentigrados();
+        Console.WriteLine("Ingresa los centigrados a convertir");
+        int Centigrados = Convert.ToInt32(Console.ReadLine());
 
-        Ejercicios.operacionesAritmeticas();
-
+        convercion.getCentigradosConvertidos(Centigrados);
     }
 }

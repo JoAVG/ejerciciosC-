@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fundamentosCshart")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74dce89baa8a435e924014decc9f27aae61106ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d4b8360235181c1e4efe47022fb493d77a6a258")]
 [assembly: System.Reflection.AssemblyProductAttribute("fundamentosCshart")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fundamentosCshart")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
