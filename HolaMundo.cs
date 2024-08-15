@@ -11,7 +11,7 @@ public class HolaMundo
         //Ejercicios.animalYholaM();
         //Ejercicios.saludaNombre();
 
-        //Ejercicios.superficeYVolumenDeCirculo();
+        Ejercicios.superficeYVolumenDeCirculo();
 
         Ejercicios.operacionesAritmeticas();
 
